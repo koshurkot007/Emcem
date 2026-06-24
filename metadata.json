@@ -1,0 +1,6 @@
+{
+  "name": "Emcem Enviro Future",
+  "description": "A creative coming soon landing page for Emcem Enviro Future.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

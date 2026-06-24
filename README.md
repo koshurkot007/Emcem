@@ -1,11 +1,32 @@
-<div align="center">
+# Emcem
 
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+Recalibrating the relationship between human industry and planetary health.
 
-  <h1>Built with AI Studio</h2>
+EMCEM is currently developing next-generation environmental solutions. A revolutionary approach to green technology is taking root.
 
-  <p>The fastest path from prompt to production with Gemini.</p>
+## Overview
+This is a single-page placeholder and early-access portal for the EnviroFuture initiative by Emcem.
 
-  <a href="https://aistudio.google.com/apps">Start building</a>
+### Tech Stack
+- React 18
+- TypeScript
+- Vite
+- Tailwind CSS
+- Framer Motion
 
-</div>
+## Getting Started
+
+1. Install dependencies
+\`\`\`bash
+npm install
+\`\`\`
+
+2. Run the development server
+\`\`\`bash
+npm run dev
+\`\`\`
+
+3. Build for production
+\`\`\`bash
+npm run build
+\`\`\`
