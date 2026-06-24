@@ -17,16 +17,16 @@ This is a single-page placeholder and early-access portal for the EnviroFuture i
 ## Getting Started
 
 1. Install dependencies
-\`\`\`bash
+```bash
 npm install
-\`\`\`
+```
 
 2. Run the development server
-\`\`\`bash
+```bash
 npm run dev
-\`\`\`
+```
 
 3. Build for production
-\`\`\`bash
+```bash
 npm run build
-\`\`\`
+```
